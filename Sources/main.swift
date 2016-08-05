@@ -1,5 +1,5 @@
 import Foundation
-import CLibgit2Swift
+import CLibgit2
 
 
 // init git
